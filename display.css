@@ -1,0 +1,107 @@
+html {
+
+    background-size: contain;
+
+}
+
+img {
+    border-radius: 50%
+}
+
+
+
+body {
+
+    background-color: skyblue;
+}
+
+
+ul {
+    display: flex;
+    margin: 20px;
+    flex-direction: row;
+}
+
+
+.mainBody {
+
+    margin-top: 0px;
+    margin-left: 50px;
+    margin-right: 50px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    background-color: grey
+}
+
+.centerText {
+    display: flex;
+    text-align: center;
+    margin: 33px auto;
+    border: 2px solid black;
+
+
+}
+
+.centerLeft div,
+.centerRight div {
+
+    background-color: beige;
+    border: 2px solid black;
+    border-color: black;
+
+    padding: 10% 30%;
+
+}
+
+textarea {
+    text-align: center;
+    text-justify: block;
+    height: 80%;
+    width: 90%;
+    margin: 60px auto
+}
+
+ul li {
+    list-style-type: none;
+    margin: auto;
+
+    font-family: "Lucida Console", Courier, monospace;
+    font-size: 150%
+}
+
+table tr td {
+    border: 1px solid black
+}
+
+.test1 {
+    padding-left: 500px
+}
+
+.test2 {
+    padding-left: 400px
+}
+
+.test3 {
+    padding-left: 300px
+}
+
+.test4 {
+    padding-left: 200px
+}
+
+.test5 {
+    padding-left: 100px
+}
+
+.test6 {
+    padding-left: 0px
+}
+
+.test7 {
+    padding-right: 100px
+}
+
+.test8 {
+    padding-right: 200px
+}
